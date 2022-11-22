@@ -17,8 +17,6 @@
   
   ![Snake animation](https://github.com/Moreira-89/Moreira-89/blob/output/github-contribution-grid-snake.svg)
 
-  
   </div><br/>
- 
   <h3> Apaixonado pela área de programação </h3>
   
