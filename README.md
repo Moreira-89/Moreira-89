@@ -1,20 +1,30 @@
-### Olá! Sou o Lucas Moreira
+### Olá! 👋 Sou Lucas Moreira
 
-## Analisando dados e criando modelos de IA! Sempre em busca de aprender mais e mais.
+## Cientista de Dados | Especialista em IA | Apaixonado por Transformar Números em Insights
 
-- 📖 Atualmente estou aprimorando minhas habilidades em **Machine Learning e GenAI**
+🔭 **Atualmente:**  
+- Desenvolvendo modelos de **Machine Learning e GenAI**  
+- Explorando técnicas avançadas de análise preditiva
 
-- 💬 Pergunte-me sobre **Análise de Dados & Modelos de IA**
-  
-- 📄 Saiba mais sobre minhas experiências no meu -> [LinkedIn](https://www.linkedin.com/in/lucas-moreira-alves) <-
+💡 **Interesses:**  
+- IA Generativa  
+- Machine Learning
+- Aplicações Web com Python
+- Visualização Criativa de Dados 
 
-### Linguagens e Ferramentas:
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/> </a>
-</p>
+📫 **Como me encontrar:** 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Moreira-89&show_icons=true&locale=en" alt="Moreira-89" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-moreira-alves)  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoparalucasmoreira@gmail.com)  
+
+🛠 **Tecnologias que Domino:**  
+
+| Área          | Ferramentas                                                                 |
+|---------------|-----------------------------------------------------------------------------|
+| **Linguagens**  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **ML/Dados**    | ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
+| **Visualização**| ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) |
+| **Versionamento**| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+
+📊 **Minhas Estatísticas no GitHub:**  
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Moreira-89&show_icons=true&theme=radical&hide_border=true)
