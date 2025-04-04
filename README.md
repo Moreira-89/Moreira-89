@@ -1,6 +1,4 @@
-### Olá! 👋 Sou Lucas Moreira
-
-## Cientista de Dados | Especialista em IA | Apaixonado por Transformar Números em Insights
+### 👋 Lucas Moreira | Cientista de Dados & Machine Learning Engineer
 
 🔭 **Atualmente:**  
 - Desenvolvendo modelos de **Machine Learning e GenAI**  
@@ -10,7 +8,11 @@
 - IA Generativa  
 - Machine Learning
 - Aplicações Web com Python
-- Visualização Criativa de Dados 
+- Visualização Criativa de Dados
+
+🏆 **Certificações:** 
+
+- Microsoft AI-900 (Azure AI Fundamentals) *[em andamento]* 
 
 📫 **Como me encontrar:** 
 
