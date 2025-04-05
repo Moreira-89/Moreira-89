@@ -12,7 +12,11 @@
 
 🏆 **Certificações:** 
 
-- Microsoft AI-900 (Azure AI Fundamentals) *[em andamento]* 
+- Microsoft AI-900 (Azure AI Fundamentals) *[em andamento]*
+<!--
+[![AI-900](https://img.shields.io/badge/Microsoft_AI‑900-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/)  
+[![AI-102](https://img.shields.io/badge/Microsoft_AI‑102-5E2CA5?style=flat&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/pt-br/certifications/)
+-->
 
 📫 **Como me encontrar:** 
 
