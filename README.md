@@ -30,7 +30,7 @@
 | **ML/Dados**    | ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
 | **Visualização**| ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) |
 | **Versionamento**| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-| **Stramlit** | ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=style-plastic-green&logo=streamlit&logoColor=white) |
+| **Aplicação Web** | ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=style-plastic-green&logo=streamlit&logoColor=white) |
 
 📊 **Minhas Estatísticas no GitHub:**  
 
