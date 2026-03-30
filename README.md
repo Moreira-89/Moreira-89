@@ -1,4 +1,4 @@
-### 👋 Lucas Moreira | Cientista de Dados
+### 👋 Lucas Moreira | Machine Learning Engineer
 
 🔭 **Atualmente:**  
 - Desenvolvendo modelos de **Machine Learning e GenAI**  
